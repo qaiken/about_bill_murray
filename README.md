@@ -1,4 +1,4 @@
-# About Us
+# About Bill Murray
 
 ```
 npm start
