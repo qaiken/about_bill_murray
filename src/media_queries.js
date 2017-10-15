@@ -5,7 +5,7 @@ const breakPoints = {
 
 const mediaQueries = {
   mobile: `@media only screen and (max-width: ${breakPoints.mobile})`,
-  tablet: `@media only screen and (max-width: ${breakPoints.tablet})`,
+  tablet: `@media only screen and (max-width: ${breakPoints.tablet})`
 }
 
 export default mediaQueries
